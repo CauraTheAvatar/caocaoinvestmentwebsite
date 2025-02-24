@@ -1,0 +1,87 @@
+/* General Styles */
+body {
+    font-family: 'Garet', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'The Seasons', serif;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+/* Landing Page */
+header {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px 0;
+    color: #653a29;
+}
+
+/* Vision to Life Section */
+#about {
+    background-color: #1b201e;
+    color: #c4baa6;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* Reviews Section */
+#reviews {
+    background-color: #c4baa6;
+    color: #1b201e;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* Team Section */
+#leadership {
+    background-color: #1b201e;
+    color: #c4baa6;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* Collaborations Section */
+#collaboration {
+    background-color: #094b03;
+    color: #e2e5e2;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+#collaboration h3 {
+    color: #631415;
+    background-color: #8faf8f;
+    padding: 10px;
+}
+
+/* Value Sesction */
+#value {
+    background-color: #1b201e;
+    color: #c4baa6;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* CEO Section - Columns with text */
+.ceo-box:nth-child(1), .ceo-box:nth-child(3) {
+    color: #c4baa6;
+}
+
+/* Contact Section - Column without logo */
+#contact {
+    background-color: #000000;
+    color: #c4baa6;
+    padding: 40px 20px;
+    text-align: center;
+}
