@@ -1,0 +1,13 @@
+# Ignore node modules and system files
+node_modules/
+.vscode/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
